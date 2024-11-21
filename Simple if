@@ -1,0 +1,7 @@
+#checking whether a person is teenager or not
+#simple if
+age=int(input("age: ")
+if age>=13 and age<=19:
+print("teenage")
+else:
+print("not teenage")
