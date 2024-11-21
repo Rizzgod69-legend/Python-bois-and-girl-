@@ -2,6 +2,6 @@
 #simple if
 age=int(input("age: ")
 if age>=13 and age<=19:
-print("teenage")
+   print("teenage")
 else:
-print("not teenage")
+    print("not teenage")
