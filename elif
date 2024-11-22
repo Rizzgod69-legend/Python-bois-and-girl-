@@ -1,0 +1,13 @@
+weight=int(input("enter the weight :")
+If weight is 51kg
+Print ("flyweight ")
+Elif weight is 52-57
+Print ("feather weight ")
+Elif weight 58-60
+Print ("light weight ")
+Elif weight 61-69
+Print ("welter weight ")
+Elif weight 70-75
+Print ("middle weight ")
+Else 
+Print ("heavy weight ")
