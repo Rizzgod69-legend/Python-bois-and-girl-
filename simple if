@@ -1,0 +1,5 @@
+1) age=int(input("enter the age :")
+IF age <13
+Print ("person of this age is not a teenager ")
+Else
+Print ("person of this age is a teenager ")
